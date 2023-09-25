@@ -5,7 +5,7 @@ h1 {
 }
 body{
     background-image: url("./grass.jpg")
-    border: 1px solid green;
+    border: 1px solid cyan;
 }
 main{
     background-color: aqua;
