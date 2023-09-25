@@ -3,7 +3,7 @@ h1 {
     background-color: aqua;
 }
 body{
-    background-image: url("./grass.jpg")
+    background-image: url("./grass.jpg";)
     border: 5px solid red;
 }
 main{
