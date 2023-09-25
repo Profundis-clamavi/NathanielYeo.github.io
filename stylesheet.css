@@ -1,0 +1,16 @@
+h1 {
+    color: crimson;
+    background-color: aqua;
+    
+}
+body{
+    background-color: aqua;
+    border: 1px solid green;
+}
+main{
+    background-color: aqua;
+    border: 1px solid green;
+}
+nav{
+    background-color: dodgerblue;
+}
