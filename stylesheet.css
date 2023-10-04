@@ -4,12 +4,17 @@ h1 {
 }
 body{
     background-image: url("./grass.jpg");
-    border: 5px solid red;
+    border: 2px solid red;
 }
 main{
     background-color: aqua;
     border: 1px solid green;
 }
+
 nav{
     background-color: dodgerblue;
+    flex: 1;
+    display: flex;
+    align-items: center;
+    padding: 10px;
 }
